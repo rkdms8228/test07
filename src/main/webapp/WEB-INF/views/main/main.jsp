@@ -13,17 +13,17 @@
 		<div id="center" class="clearfix">
 			<!-- 메인 로고 -->		
 			<h1>
-				<a href="/test07/main">MyBoard</a>
+				<a href="/main">MyBoard</a>
 			</h1>
 	
 			<!-- 로그인 전 -->
 			<ul>
-				<li><a href="/test07/user/loginForm" class="btn_s log">로그인</a></li>
+				<li><a href="/loginForm" class="btn_s log">로그인</a></li>
 			</ul>
 			<!-- 로그인 후 
 			<ul>
 				<li>님 안녕하세요 ﻿คʕ•ﻌ•ʔค</li>
-				<li><a href="/test07/user/logout" class="btn_s">로그아웃</a></li>
+				<li><a href="/logout" class="btn_s">로그아웃</a></li>
 			</ul>
 			-->
 		</div>
