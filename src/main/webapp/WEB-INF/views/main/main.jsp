@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>게시판 메인화면</title>
+<title>게시판 메인 화면</title>
 <link href="resources/css/main.css" rel="stylesheet" type="text/css">
 </head>
 <body>
